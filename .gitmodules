@@ -1,3 +1,9 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/zacharychuazetli/test.git
+[submodule "001GitTestProject/test"]
+	path = 001GitTestProject/test
+	url = https://github.com/zacharychuazetli/test.git
+[submodule "001GitTestProject/core_flow"]
+	path = 001GitTestProject/core_flow
+	url = https://github.com/zacharychuazetli/test.git
